@@ -4,3 +4,5 @@
 
 # Skills & Tools Covered
 #### EDA, Data preprocessing, Model Building0, Hyperparameter tuning, Docker, Flask, API development
+<img width="522" height="857" alt="image" src="https://github.com/user-attachments/assets/f8dd3f21-aa7d-4005-8b25-913dba71f098" />
+
